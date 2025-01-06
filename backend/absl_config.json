@@ -1,0 +1,11 @@
+{
+    "SQLALCHEMY_DATABASE_URI" : "sqlite:///../database/development.db",
+    "SECRET_KEY" : "f1487e82b1fa3e10e50c94874d4fd2cb0bf82887c0c5310d5032fcb4711d4704",
+    "ENV" : "production",
+    "ADMIN_NAME" :  "Perf Dashboard Admin",
+    "ADMIN_EMAIL" : "",
+    "ADMIN_PASSWORD" : "Perf@2024",
+    "JWT_SECRET_KEY": "25523c43f2284a14164f00476be391fd44b30059c92db437d4771e12763a19fb",
+    "JWT_ACCESS_TOKEN_EXPIRES_DAYS": 7
+    }
+    
